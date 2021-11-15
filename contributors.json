@@ -183,6 +183,10 @@
       {
         "name":"Foch",
         "color":"0x7cf113ff"
+      },
+      {
+       "name":"MnHs",
+       "color":"0x0080ffff"
       }
     ]
   }
