@@ -100,22 +100,22 @@ msgstr "Ви Померли"
 #. translation.
 #: ../client/application/game/ui/game_over_ui.cpp:18
 msgid "You died. Again."
-msgstr ""
+msgstr "Ви померли. Знову."
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:20
 msgid "Insert coin to continue"
-msgstr ""
+msgstr "Вставте монету щоб продовжити"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:22
 msgid "You tried"
-msgstr ""
+msgstr "Ви спробували"
 
 #. April 1st replacement for "Game Over". Feel free to be creative.
 #: ../client/application/game/ui/game_over_ui.cpp:24
 msgid "It's okay, you were never going to win anyway."
-msgstr ""
+msgstr "Нічого страшного, ти і так ніколи би не переміг."
 
 #: ../client/application/game/ui/game_over_ui.cpp:48
 msgid "Play again"
@@ -1397,25 +1397,25 @@ msgstr "Нова золота медаль"
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:307
 msgid "Ouch"
-msgstr ""
+msgstr "Ау"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:310
 msgid "Yikes"
-msgstr ""
+msgstr "Йой"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:313
 msgid "Ow"
-msgstr ""
+msgstr "Оу"
 
 #. A floating message shown when the player takes damage. Feel free to
 #. adapt the message to your language.
 #: ../client/application/game/entities/player/ship.cpp:316
 msgid "Ugh"
-msgstr ""
+msgstr "Уф"
 
 #: ../client/application/graphics/renderers/renderer_types.cpp:9
 msgid "Minimal"
